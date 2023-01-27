@@ -4,7 +4,7 @@
 
 # Old codes
 
-* All the old codes are put in a folder called "Legacy Code".
+* All the old codes are put in a folder called "legacy_code".
 
 # New codes
 
